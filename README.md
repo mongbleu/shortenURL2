@@ -12,12 +12,12 @@
 
 ## install project
 ```bash
-git clone <본인repository>
+git clone https://github.com/mongbleu/shortenURL2.git
 ```
 
 ### install dependency
 ```bash
-pip install "fastapi[all]"
+pip install -r requirements.txt
 ```
 
 ## run app
