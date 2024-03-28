@@ -1,1 +1,3 @@
-host = "localhost:8000"
+jmport os
+
+host = os.environ['HOST'] # 환경변수 사용
